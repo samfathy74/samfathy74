@@ -99,8 +99,14 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=samfathy74&show_icons=true&locale=en&layout=compact" alt="samfathy74" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=samfathy74&show_icons=true&locale=en&layout=compact" alt="samfathy74" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samfathy74&show_icons=true&theme=dark&locale=en" alt="samfathy74" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samfathy74&show_icons=true&theme=dark&locale=en" alt="samfathy74" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samfathy74&" alt="samfathy74" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samfathy74&" alt="samfathy74" />
+</p>
